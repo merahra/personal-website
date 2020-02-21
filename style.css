@@ -1,0 +1,16 @@
+.top{
+background-image: url("images/header-bg.png") ;
+background-repeat: no-repeat ;
+}
+.middle-one{
+    background-image: url("images/biography-bg");
+    background-repeat: no-repeat;
+}
+.middle-two{
+    background-image: url("images/latest-work-bg") ;
+    background-repeat: no-repeat;
+}
+.bottom{
+    background-image: url("images/footer-bg");
+    background-repeat: no-repeat;
+}
